@@ -1,2 +1,4 @@
-# HighPerformanceParallelComputing-Project
-This is implementation of Bucket Sort in Parallel, done as project work for High Performance Parallel Computing course at Uppsala University
+# High Performance Parallel Computing Project
+# Uppsala University
+
+This repository contains a C implementation of bucket sort, parallelized using OpenMP. The code demonstrates how to efficiently sort large datasets by distributing elements into buckets and sorting them concurrently.
